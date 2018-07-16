@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/versionpress"]
+	path = wp-content/plugins/versionpress
+	url = https://github.com/versionpress/versionpress
